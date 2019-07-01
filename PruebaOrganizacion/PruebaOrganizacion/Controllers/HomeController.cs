@@ -12,6 +12,7 @@ namespace PruebaOrganizacion.Controllers
     {
         public IActionResult Index()
         {
+            //Hola
             return View();
         }
 
